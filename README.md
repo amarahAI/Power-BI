@@ -4,6 +4,9 @@
 Hi! I am Microsoft Certified Power BI Data Analyst :) 
 
 
+Following are the steps to analyze Data with Power BI -
+
+
 Prepare Data in Power BI Desktop
 
 Load Data in Power BI Desktop
