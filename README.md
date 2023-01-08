@@ -1,6 +1,9 @@
 # Power-BI --- Analyzing Data with Power BI
 
 
+Hi! I am Microsoft Certified Power BI Data Analyst :) 
+
+
 Prepare Data in Power BI Desktop
 
 Load Data in Power BI Desktop
